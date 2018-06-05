@@ -1,5 +1,5 @@
-PHP Apache Services Example
-===========================
+USDA Program Data Example.
+==========================
 
 This is a basic LAMP stack created using LANDO services. This site will be used for managing USDA program data.
 
